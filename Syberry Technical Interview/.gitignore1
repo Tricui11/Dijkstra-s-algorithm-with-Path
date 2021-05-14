@@ -1,0 +1,8 @@
+﻿[Bb]in/
+[Oo]bj/
+.vs/
+Syberry Technical Interview.csproj
+Program.cs
+.editorconfig
+.gitignore
+path-plan.txt
